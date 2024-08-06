@@ -1,6 +1,5 @@
 package com.example.discovery_server;
 
-import org.junit.Test;
 import org.testng.annotations.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
@@ -8,7 +7,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 public class DiscoveryServerApplicationTests {
 
 	@Test
-    public void contextLoads() {
+	public void contextLoads() {
 	}
 
 }
