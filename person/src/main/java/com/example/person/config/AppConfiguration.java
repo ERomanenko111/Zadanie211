@@ -17,6 +17,6 @@ public class AppConfiguration {
 
     @Bean
     public CacheManager cacheManager() {
-        return new ConcurrentMapCacheManager("weatherCache");
+        return new ConcurrentMapCacheManager("personCache");
     }
 }
